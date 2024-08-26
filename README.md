@@ -1,2 +1,2 @@
-# README
-Repositorio de código fuente utilizado en la Asignatura Fundamentos de Programación
+# pixel-perfect
+Repositorio para un proyecto de diseño y desarrollo frontend. Aquí se trabaja en la creación de interfaces visualmente atractivas y funcionales, siguiendo las mejores prácticas en diseño responsivo y accesibilidad web.
